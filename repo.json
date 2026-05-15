@@ -5,6 +5,7 @@
   "version": "1",
   "games": [
     {
+      "id": "super-smash-bros-wii-u"
       "path": "games/super-smash-bros-wii-u/game.json"
     }
   ]
